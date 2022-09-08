@@ -30,3 +30,7 @@ The following 5 implementations were done with 5 different imputation methods:
 5. frequent_implementation.ipynb
 6. iterative_implementation.ipynb
 7. KNN_implementation.ipynb
+
+Note that: be careful with the file path when running the above implementations. 
+You may find the file path quickly by dragging the file to your command prompt or terminal. 
+Accuracy, precision, recall and F1 score are slightly different each time you run. This is quite normal.
